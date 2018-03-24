@@ -1,0 +1,2 @@
+# convert_picture_to_snowingGIF
+给一张静态图片增加下雪动态效果，并生成gif效果图
